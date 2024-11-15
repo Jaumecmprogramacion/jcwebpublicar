@@ -4,12 +4,5 @@
         "runtime": "vercel-php@0.7.1"
       }
     },
-    "routes": [
-      
-      {
-        "src": "/(.py)",
-        "dest": "/api/index.php"
-      }
-  
-    ]
-  }
+
+    
