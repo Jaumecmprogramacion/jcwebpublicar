@@ -14,7 +14,7 @@
     
     
     <!-- Swiper CSS -->
-    <link rel="stylesheet" href="assets/vendors/swiper/swiper.css" />
+    <link rel="stylesheet" href="assets/vendors/swiper/swiper1.css" />
 
     <!-- Magnific-Popup CSS -->
     <link rel="stylesheet" href="assets/vendors/magnific-popup/magnific-popup.css" />
