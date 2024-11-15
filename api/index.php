@@ -22,10 +22,8 @@
     <!-- Custom Stylesheets -->
     <link rel="stylesheet"  href="assets/css/main.css" />
     <link rel="stylesheet" href="assets/css/responsive.css" />
-    <?php
-
-// Forward Vercel requests to normal index.php
-require __DIR__ . '/../public/index.php';
+ 
+ 
     
         
 </head>
